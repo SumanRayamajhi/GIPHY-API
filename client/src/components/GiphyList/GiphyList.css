@@ -1,0 +1,11 @@
+.Giphy-image {
+  padding: 0 2px;
+}
+
+.Giphy-container {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
